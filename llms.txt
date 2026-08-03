@@ -1,0 +1,80 @@
+# Meibo City (美博城) - llms.txt
+
+> Your Gateway to Premium Beauty Sourcing
+> URL: https://meibo-city.com
+
+## Overview
+
+Meibo City is China's premier B2B wholesale complex dedicated to hair, beauty, cosmetics, fragrance, nail, and professional salon equipment. Strategically located in Guangzhou, it serves as a full-service ecosystem connecting international buyers with premium Chinese manufacturers.
+
+## Key Facts
+
+- **Location**: No.121 Guangyuan West Road, Yuexiu District, Guangzhou, Guangdong Province, China
+- **Scale**: 300,000+ square meters of curated wholesale space
+- **Suppliers**: 3,000+ verified suppliers
+- **Products**: 500,000+ products across six core categories
+- **Global Reach**: Trusted by brands and salons across 100+ countries
+- **Business Hours**: Monday – Saturday, 9:00 AM – 6:00 PM (GMT+8)
+- **Contact**: info@meibo-city.com | +86 135 0302 5361
+
+## Site Structure
+
+| Page | URL | Description |
+|------|-----|-------------|
+| Home | / | Main landing page - gateway to premium beauty sourcing |
+| About | /about | Company story, location advantages, infrastructure details |
+| Products | /products | Six core product categories with full catalog |
+| Contact | /contact | Trade team contact information and inquiry form |
+
+## Product Categories
+
+### 1. Hair Care & Styling
+Professional hair care products including shampoos, conditioners, treatments, coloring systems, perming solutions, hair dryers, styling irons, salon tools, wigs, hair extensions, and accessories. Full OEM/ODM capabilities available.
+
+### 2. Skincare
+Comprehensive skincare solutions: facial cleansers, toners, serums, moisturizers, masks, eye care, sun protection, body lotions, and anti-aging treatments. Natural ingredient formulations and advanced dermatological technologies.
+
+### 3. Makeup
+Complete makeup ranges: foundations, concealers, powders, blushes, eyeshadows, eyeliners, mascaras, lipsticks, lip glosses, and makeup tools. Private label and OEM manufacturing for beauty brands of all sizes.
+
+### 4. Fragrance
+Eau de parfum, eau de toilette, cologne, perfume oils, solid perfumes, home fragrance, diffusers, scented candles, and car air fresheners. Custom scent development with experienced perfumers.
+
+### 5. Nail & Lash
+Professional nail art supplies (gel polishes, UV/LED gels, acrylic powders, nail tips, stamping kits), eyelash extensions, lash adhesives, lash lift kits, and brow tinting products.
+
+### 6. Salon Equipment
+Advanced beauty equipment: IPL lasers, RF machines, cavitation devices, hydrafacial machines, oxygen therapy systems, microdermabrasion, LED therapy panels, salon beds, trolleys, magnifying lamps, and professional packaging solutions.
+
+## Location Advantages
+
+- **35 minutes** to Baiyun International Airport (200+ global destinations)
+- **45 minutes** to Guangzhou Port (world's top 5 container ports)
+- **20 minutes** to Canton Fair Complex (world's largest trade exhibition)
+- **Within 2 hours** of China's major cosmetics and packaging manufacturing clusters
+
+## Sourcing Process
+
+1. **Explore** - Browse 500,000+ products across six categories
+2. **Inquire** - Request samples, compare quotations, negotiate terms
+3. **Order** - Finalize order details, sign contracts, arrange payment
+4. **Ship** - Goods consolidated, packed to international standards, cleared through customs
+
+## Services
+
+- All suppliers undergo rigorous quality and compliance checks
+- Multilingual trade support
+- Dedicated export processing, customs clearance, and shipping partners
+- Inspection, certification, OEM/ODM consulting, and payment facilitation
+- Buyer support, supplier matching, and on-ground logistics assistance
+
+## Important Links
+
+- Website: https://meibo-city.com
+- Email: info@meibo-city.com
+- Phone: +86 135 0302 5361
+- Social Media: Facebook, Instagram, YouTube, TikTok, WhatsApp
+
+## Language Support
+
+Website supports multiple languages including English (default) and Chinese (简体中文).
