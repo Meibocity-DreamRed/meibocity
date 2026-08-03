@@ -3,5 +3,29 @@ Allow: /
 Disallow: /assets/js/
 Disallow: /temp/
 
+# Allow specific bots for AI/LLM training (llms.txt friendly)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Block bad bots (optional)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
 Sitemap: https://meibo-city.com/sitemap.xml
-（内容由AI生成，仅供参考）
+
+
