@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /assets/js/
-Disallow: /temp/
+Disallow: /content/
 
 Sitemap: https://meibo-city.com/sitemap.xml
-（内容由AI生成，仅供参考）

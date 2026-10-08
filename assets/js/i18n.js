@@ -19,6 +19,7 @@
     'nav.about': { en: 'About', fr: 'À propos', ru: 'О нас', ar: 'من نحن' },
     'nav.products': { en: 'Products', fr: 'Produits', ru: 'Продукция', ar: 'المنتجات' },
     'nav.contact': { en: 'Contact', fr: 'Contact', ru: 'Контакты', ar: 'اتصل بنا' },
+    'nav.blog': { en: 'Blog', fr: 'Blog', ru: 'Блог', ar: 'المدونة' },
 
     /* ---- Language Switcher ---- */
     'lang.label': { en: 'Language', fr: 'Langue', ru: 'Язык', ar: 'اللغة' },
@@ -36,6 +37,7 @@
     'footer.quick.about': { en: 'About Us', fr: 'À propos', ru: 'О нас', ar: 'من نحن' },
     'footer.quick.products': { en: 'Products', fr: 'Produits', ru: 'Продукция', ar: 'المنتجات' },
     'footer.quick.contact': { en: 'Contact', fr: 'Contact', ru: 'Контакты', ar: 'اتصل بنا' },
+    'footer.quick.blog': { en: 'Blog', fr: 'Blog', ru: 'Блог', ar: 'المدونة' },
     'footer.cat.title': { en: 'Categories', fr: 'Catégories', ru: 'Категории', ar: 'الفئات' },
     'footer.cat.hair': { en: 'Hair & Styling', fr: 'Coiffure & Styling', ru: 'Волосы и укладка', ar: 'العناية بالشعر' },
     'footer.cat.skincare': { en: 'Skincare', fr: 'Soins de la peau', ru: 'Уход за кожей', ar: 'العناية بالبشرة' },
@@ -366,7 +368,24 @@
       ar: 'أخبرنا عن احتياجاتك في التوريد، وسوقك المستهدف، وأي متطلبات منتج محددة...'
     },
     'contact.form.submit': { en: 'Submit Inquiry', fr: 'Envoyer la demande', ru: 'Отправить запрос', ar: 'إرسال الاستفسار' },
-    'contact.map': { en: 'Map \u2014 Guangzhou Meibo City, Guangdong, China', fr: 'Carte \u2014 Guangzhou Meibo City, Guangdong, Chine', ru: 'Карта \u2014 Guangzhou Meibo City, Гуандун, Китай', ar: 'الخريطة \u2014 مييبو سيتي، قوانغتشو، قوانغدونغ، الصين' }
+    'contact.map': { en: 'Map \u2014 Guangzhou Meibo City, Guangdong, China', fr: 'Carte \u2014 Guangzhou Meibo City, Guangdong, Chine', ru: 'Карта \u2014 Guangzhou Meibo City, Гуандун, Китай', ar: 'الخريطة \u2014 مييبو سيتي، قوانغتشو، قوانغدونغ، الصين' },
+    /* ======================== BLOG ======================== */
+    'blog.title': { en: 'Blog', fr: 'Blog', ru: 'Блог', ar: 'المدونة' },
+    'blog.subtitle': {
+      en: 'Insights and sourcing guides for the global beauty wholesale trade.',
+      fr: 'Analyses et guides de sourcing pour le commerce de gros de la beauté à l’international.',
+      ru: 'Аналитика и руководства по закупкам для международной оптовой торговли косметикой.',
+      ar: 'رؤى وأدلة توريد لتجارة مستحضرات التجميل بالجملة عالمياً.'
+    },
+    'blog.readmore': { en: 'Read more', fr: 'Lire la suite', ru: 'Читать далее', ar: 'اقرأ المزيد' },
+    'blog.empty': {
+      en: 'No articles published yet. Please check back soon.',
+      fr: 'Aucun article publié pour le moment. Revenez bientôt.',
+      ru: 'Пока нет опубликованных статей. Загляните позже.',
+      ar: 'لا توجد مقالات منشورة بعد. يرجى العودة قريباً.'
+    },
+    'blog.back': { en: 'Back to blog', fr: 'Retour au blog', ru: 'Назад к блогу', ar: 'العودة إلى المدونة' },
+    'blog.by': { en: 'By', fr: 'Par', ru: 'Автор', ar: 'بقلم' }
   };
 
   /* ================================================================
