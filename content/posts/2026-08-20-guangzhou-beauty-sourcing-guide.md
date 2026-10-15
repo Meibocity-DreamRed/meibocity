@@ -1,11 +1,15 @@
 ---
-title: "Guangzhou Beauty Sourcing Guide: Where to Buy for Your Salon or Store"
-date: 2026-08-20
-author: Guangzhou Meibo City
-excerpt: "A first-timer's guide to Guangzhou's beauty wholesale districts — what to see, how to plan your trip, how to pay and ship, and the mistakes that cost new buyers the most money."
-cover:
-draft: false
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 216e96c63500ee3d2ef6b0156280e9aa_fcec3be1c32611f197eb525400393706
+    ReservedCode1: DbaPqDaF29PYPWc43F4X2ZSBSKSgZvcMECX5ahCgIRWqZk3KjtwaoSBoohBGIZxi5g1Lzfib0xmodhQfHkfIu/qfSYu93qeEfkGg6gRUfenl9LKTU0hDMd/v7WHUwBcIaZBv7xoZt59KNP08TL9MHb3/m9V5z6ROKzrlFsDr2jkurqXkTfyfF/qdSEU=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 216e96c63500ee3d2ef6b0156280e9aa_fcec3be1c32611f197eb525400393706
+    ReservedCode2: DbaPqDaF29PYPWc43F4X2ZSBSKSgZvcMECX5ahCgIRWqZk3KjtwaoSBoohBGIZxi5g1Lzfib0xmodhQfHkfIu/qfSYu93qeEfkGg6gRUfenl9LKTU0hDMd/v7WHUwBcIaZBv7xoZt59KNP08TL9MHb3/m9V5z6ROKzrlFsDr2jkurqXkTfyfF/qdSEU=
 ---
+
+
 
 Guangzhou is not one market — it is a patchwork of specialised wholesale districts, each with its own rhythm, opening hours and buyer profile. Knowing which district to visit on which day is the difference between a productive trip and three days of aimless walking.
 
@@ -58,3 +62,4 @@ Experienced buyers tend to give the same advice to newcomers:
 Treat your first visit as reconnaissance with a small test order attached. Walk the floors, collect catalogues, photograph packaging, and open a conversation with three suppliers per category. Then place a modest order with the supplier whose samples, communication and documentation were strongest.
 
 Guangzhou rewards repeat buyers: lead times shorten, payment terms improve and private-label projects become realistic once a supplier has seen your order history. Build the relationship first — the pricing follows.
+*（内容由AI生成，仅供参考）*

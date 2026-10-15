@@ -1,11 +1,15 @@
 ---
-title: "B2B Beauty Wholesale from Guangzhou: A Step-by-Step Sourcing Playbook"
-date: 2026-09-12
-author: Guangzhou Meibo City
-excerpt: "A practical playbook for international buyers sourcing hair, skincare, cosmetics and nail products wholesale from Guangzhou — from supplier vetting to MOQ, samples and shipping."
-cover:
-draft: false
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 216e96c63500ee3d2ef6b0156280e9aa_fc2413dfc32611f18019525400248c00
+    ReservedCode1: ARjkK+HHau6afjXmVgXuxAr/yHU6wdBF0Hq4Y+w5H/aOdY98Wef3rdj2TurYhFTeWLH7r5MPQauLts9miWt1LmhrNPvVi4K2xLXW3nQ29oIbtfRaPYzjegZwW5BhC99APlo+q1EjP8NGTb9hJI8a7SEvKqEe1q5CpUMkMoB8WcEygUkuG30k9Gb1WYw=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 216e96c63500ee3d2ef6b0156280e9aa_fc2413dfc32611f18019525400248c00
+    ReservedCode2: ARjkK+HHau6afjXmVgXuxAr/yHU6wdBF0Hq4Y+w5H/aOdY98Wef3rdj2TurYhFTeWLH7r5MPQauLts9miWt1LmhrNPvVi4K2xLXW3nQ29oIbtfRaPYzjegZwW5BhC99APlo+q1EjP8NGTb9hJI8a7SEvKqEe1q5CpUMkMoB8WcEygUkuG30k9Gb1WYw=
 ---
+
+
 
 Guangzhou is the single largest concentration of beauty, hair and cosmetics manufacturing in the world. Within a few city blocks you can meet hundreds of factories, trading companies and brand owners who supply salons, e-commerce sellers and distributors across more than 100 countries. For a B2B buyer, that density is an advantage — but only if you know how to work it.
 
@@ -65,3 +69,4 @@ For logistics, most beauty products ship by sea for volume and by air or express
 A dedicated beauty wholesale hub such as Meibo City in Yuexiu District, Guangzhou shortens every step above. Buyers can walk the floors, compare factories side by side, inspect physical samples and place orders with sourcing support on site. For first-time importers, that physical presence removes most of the guesswork that makes remote sourcing risky.
 
 Start with one category, one supplier and one small order. Prove the quality and the logistics, then scale the relationship — Guangzhou rewards buyers who come back.
+*（内容由AI生成，仅供参考）*
