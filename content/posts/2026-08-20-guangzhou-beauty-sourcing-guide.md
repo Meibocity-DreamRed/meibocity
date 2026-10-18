@@ -62,4 +62,3 @@ Experienced buyers tend to give the same advice to newcomers:
 Treat your first visit as reconnaissance with a small test order attached. Walk the floors, collect catalogues, photograph packaging, and open a conversation with three suppliers per category. Then place a modest order with the supplier whose samples, communication and documentation were strongest.
 
 Guangzhou rewards repeat buyers: lead times shorten, payment terms improve and private-label projects become realistic once a supplier has seen your order history. Build the relationship first — the pricing follows.
-*（内容由AI生成，仅供参考）*

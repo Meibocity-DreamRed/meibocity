@@ -69,4 +69,3 @@ For logistics, most beauty products ship by sea for volume and by air or express
 A dedicated beauty wholesale hub such as Meibo City in Yuexiu District, Guangzhou shortens every step above. Buyers can walk the floors, compare factories side by side, inspect physical samples and place orders with sourcing support on site. For first-time importers, that physical presence removes most of the guesswork that makes remote sourcing risky.
 
 Start with one category, one supplier and one small order. Prove the quality and the logistics, then scale the relationship — Guangzhou rewards buyers who come back.
-*（内容由AI生成，仅供参考）*

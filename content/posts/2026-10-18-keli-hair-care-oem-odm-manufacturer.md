@@ -21,8 +21,6 @@ If you are building your own brand, you do not want a supplier who competes with
 
 Keli is an OEM/ODM-only manufacturer. The factory does not run a retail consumer brand that competes with its clients. Its entire business model is built around making **your** formula, **your** packaging and **your** brand — nothing else. From the first sample to full container production, the factory's job is to disappear behind your label.
 
-![Factory facility](assets/uploads/keli-factory-site.jpg)
-
 ## Question 1: Is This Factory Actually Reliable?
 
 The fastest way to check reliability is to look at hard facts, not marketing words. Here is what matters, and what Keli can show:
@@ -34,17 +32,17 @@ The fastest way to check reliability is to look at hard facts, not marketing wor
 
 These are not claims you have to take on faith. Keli publishes its certificates openly, and any buyer can request copies before placing an order.
 
-![GMP certificate](assets/uploads/keli-cert-gmp.jpg)
+<img src="/assets/uploads/keli-cert-gmp.jpg" alt="GMP certificate" width="50%">
 
-![ISO 22716 certificate](assets/uploads/keli-cert-iso22716.jpg)
+<img src="/assets/uploads/keli-cert-iso22716.jpg" alt="ISO 22716 certificate" width="50%">
 
-![FDA certificate](assets/uploads/keli-cert-fda.jpg)
+<img src="/assets/uploads/keli-cert-fda.jpg" alt="FDA certificate" width="50%">
 
-![CE certificate](assets/uploads/keli-cert-ce.jpg)
+<img src="/assets/uploads/keli-cert-ce.jpg" alt="CE certificate" width="50%">
 
-![MSDS documentation](assets/uploads/keli-cert-msds.jpg)
+<img src="/assets/uploads/keli-cert-msds.jpg" alt="MSDS documentation" width="50%">
 
-![Export certificate - Saudi Arabia](assets/uploads/keli-cert-saudi.png)
+<img src="/assets/uploads/keli-cert-saudi.png" alt="Export certificate - Saudi Arabia" width="50%">
 
 **The takeaway:** ask for certificates, ask for factory photos, ask for existing export markets. A factory that has shipped to regulated markets — Europe, the Gulf, the Americas — has already been audited by someone with standards stricter than yours.
 
@@ -119,7 +117,7 @@ Choosing a shampoo factory does not have to be a leap of faith. Do the same chec
 
 Guangzhou Keli Biotechnology Co., Ltd. scores well on every one of these checks, and it is exactly the kind of specialist OEM/ODM partner we are happy to introduce from Guangzhou Meibo City.
 
-**Visit the factory website** to see the full product range and production photos: **https://kelihaircare.com/**
+**Visit the factory website** to see the full product range and production photos: [https://kelihaircare.com/](https://kelihaircare.com/)
 
 **Or contact the sales team directly on WhatsApp: [+86 186 2006 1019](https://wa.me/8618620061019)** — send your product idea and get a quote, a sample plan and an honest MOQ answer, usually within one working day.
 
