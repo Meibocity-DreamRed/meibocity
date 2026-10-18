@@ -174,7 +174,13 @@ class Post:
             self.draft = bool(draft_val)
 
         self.body_md = body_md
-        self.body_html = md_lib.markdown(body_md, extensions=MD_EXTENSIONS)
+        # Render the Markdown body, then make every body image path absolute
+        # (same strategy as `cover`). Relative `assets/...` srcs inside the
+        # rendered <img> tags would otherwise resolve against the article URL
+        # (/blog/<slug>.html) and 404. Never prepend a second slash.
+        body_html = md_lib.markdown(body_md, extensions=MD_EXTENSIONS)
+        body_html = re.sub(r'(<img\b[^>]*?\bsrc=")assets/', r"\1/assets/", body_html)
+        self.body_html = body_html
 
     @property
     def slug(self) -> str:
