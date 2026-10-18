@@ -7,14 +7,17 @@
 <title>TikTok 授权回调</title>
 <style>
   :root { color-scheme: light dark; }
-  body { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; max-width: 720px; margin: 48px auto; padding: 0 20px; line-height: 1.6; }
+  body { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
+         max-width: 720px; margin: 48px auto; padding: 0 20px; line-height: 1.6; }
   h1 { font-size: 20px; }
   .box { border: 1px solid #8884; border-radius: 8px; padding: 14px 16px; margin: 14px 0; }
   label { display: block; font-size: 12px; opacity: .7; margin-bottom: 4px; }
-  textarea { width: 100%; font-family: ui-monospace, Consolas, monospace; font-size: 13px; border: 0; background: transparent; resize: vertical; }
-  button { padding: 8px 16px; font-size: 14px; border-radius: 6px; border: 1px solid #8884; background: transparent; cursor: pointer; }
+  textarea { width: 100%; font-family: ui-monospace, Consolas, monospace; font-size: 13px;
+             border: 0; background: transparent; resize: vertical; }
+  button { padding: 8px 16px; font-size: 14px; border-radius: 6px; border: 1px solid #8884;
+           background: transparent; cursor: pointer; }
   .err { border-color: #d00; }
-  .ok { border-color: #0a0; }
+  .ok  { border-color: #0a0; }
   code { font-family: ui-monospace, Consolas, monospace; background: #8882; padding: 1px 5px; border-radius: 4px; }
   footer { margin-top: 32px; font-size: 12px; opacity: .6; }
 </style>
@@ -23,56 +26,43 @@
 <h1 id="title">正在读取 TikTok 授权参数…</h1>
 <div id="params"></div>
 <div id="actions" style="display:none">
-  <button id="copy">复制 auth_code</button>
+  <button id="copy">复制授权码</button>
   <span id="hint" style="font-size:13px;opacity:.7"></span>
 </div>
 <footer>
   本页面为 GitHub Pages 静态页，仅用于接收并展示 OAuth 回调参数。<br>
   真正的 <code>auth_code → access_token</code> 交换必须在服务端或本机完成，切勿在此页调用。
 </footer>
-
 <script>
 (function () {
   var qs = new URLSearchParams(location.search);
-  // Ads Marketing API 用 auth_code；TikTok Shop / 其他接口可能用 code
   var code = qs.get('auth_code') || qs.get('code') || '';
   var state = qs.get('state') || '';
   var err = qs.get('error') || qs.get('error_description') || '';
   var wrap = document.getElementById('params');
   var title = document.getElementById('title');
-
   function field(name, value, cls) {
     var d = document.createElement('div');
     d.className = 'box ' + (cls || '');
     var l = document.createElement('label');
     l.textContent = name;
     var t = document.createElement('textarea');
-    t.rows = 2;
-    t.readOnly = true;
-    t.value = value;
-    d.appendChild(l);
-    d.appendChild(t);
-    wrap.appendChild(d);
+    t.rows = 2; t.readOnly = true; t.value = value;
+    d.appendChild(l); d.appendChild(t); wrap.appendChild(d);
     return t;
   }
-
-  if (err) {
-    title.textContent = '授权失败';
-    field('error', err, 'err');
-    return;
-  }
+  if (err) { title.textContent = '授权失败'; field('error', err, 'err'); return; }
   if (!code) {
     title.textContent = '未检测到授权码';
     field('完整 URL', location.href);
     field('query', location.search || '(空)');
     return;
   }
-
-  title.textContent = '授权成功，已收到 auth_code';
-  var ta = field('auth_code（有效期很短，立即复制）', code, 'ok');
+  var isAds = !!qs.get('auth_code');
+  title.textContent = '授权成功，已收到 ' + (isAds ? 'auth_code' : 'code');
+  var ta = field('授权码（有效期很短，请立即复制）', code, 'ok');
   if (state) field('state', state);
   document.getElementById('actions').style.display = 'block';
-
   var hint = document.getElementById('hint');
   function copy() {
     ta.select();
