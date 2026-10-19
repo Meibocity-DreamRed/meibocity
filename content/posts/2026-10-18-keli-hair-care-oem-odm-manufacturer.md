@@ -7,8 +7,6 @@ cover: /assets/uploads/keli-factory-aerial.jpg
 draft: false
 ---
 
-![Guangzhou Keli factory](assets/uploads/keli-factory-aerial.jpg)
-
 You have the brand name. You have the market. Maybe you even have the packaging design ready. The only thing standing between you and your first shelf-ready bottle of shampoo is one decision: **which factory do you trust with your formula, your label and your money?**
 
 It is a fair fear. Every buyer in this industry has heard the horror stories — a "factory" that is really a trading desk, a formula that changes between sample and container, an MOQ that quietly doubles after you sign. Importers are right to ask hard questions before committing.
