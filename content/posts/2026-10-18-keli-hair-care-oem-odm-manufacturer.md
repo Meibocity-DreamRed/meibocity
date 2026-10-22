@@ -1,7 +1,7 @@
 ---
 title: "How to Choose a Shampoo OEM/ODM Factory You Can Actually Trust"
 date: 2026-10-18
-author: Guangzhou Meibo City
+author: Guangzhou Meiwan Plaza
 excerpt: "Launching your own shampoo brand? These are the questions every smart importer asks before signing with a factory — reliability, formula safety, MOQ, and samples. Here is how a Guangzhou OEM/ODM manufacturer answers them."
 cover: /assets/uploads/keli-factory-aerial.jpg
 draft: false
@@ -11,7 +11,7 @@ You have the brand name. You have the market. Maybe you even have the packaging 
 
 It is a fair fear. Every buyer in this industry has heard the horror stories — a "factory" that is really a trading desk, a formula that changes between sample and container, an MOQ that quietly doubles after you sign. Importers are right to ask hard questions before committing.
 
-This guide is written from the perspective of Guangzhou Meibo City, the wholesale hub that sits at the centre of China's beauty manufacturing trade. We visit manufacturers every week, and we know exactly what separates reliable OEM/ODM partners from expensive lessons. Today we introduce one of them: **Guangzhou Keli Biotechnology Co., Ltd.**, a dedicated OEM/ODM shampoo and hair care manufacturer — and we walk through the questions you should ask any factory, and how Keli answers them.
+This guide is written from the perspective of Guangzhou Meiwan Plaza, the wholesale hub that sits at the centre of China's beauty manufacturing trade. We visit manufacturers every week, and we know exactly what separates reliable OEM/ODM partners from expensive lessons. Today we introduce one of them: **Guangzhou Keli Biotechnology Co., Ltd.**, a dedicated OEM/ODM shampoo and hair care manufacturer — and we walk through the questions you should ask any factory, and how Keli answers them.
 
 ## First: Make Sure the Factory Only Does OEM/ODM
 
@@ -52,11 +52,11 @@ Formula safety is the question that keeps importers up at night, because a compl
 2. **Destination-market compliance support.** Keli already works with EU CPNP registration and REACH compliance, and holds export certificates covering markets including Saudi Arabia. If your target market has specific labelling or restricted-ingredient rules, the factory's R&D team adjusts the formula before sampling — not after you have received a customs penalty.
 3. **Stable, documented formulations.** The R&D team (20 years of hair care technology experience) keeps master formulas on file. Every batch is produced against the same written specification, and the 5-point QC process verifies consistency before shipment.
 
-![Research and development laboratory](assets/uploads/keli-lab-1.jpg)
+![Research and development laboratory](/assets/uploads/keli-lab-1.jpg)
 
-![Laboratory testing](assets/uploads/keli-lab-2.jpg)
+![Laboratory testing](/assets/uploads/keli-lab-2.jpg)
 
-![Laboratory equipment](assets/uploads/keli-lab-3.jpg)
+![Laboratory equipment](/assets/uploads/keli-lab-3.jpg)
 
 **The takeaway:** never accept "don't worry, it's fine" as a compliance answer. Ask for the document. Any serious OEM/ODM partner will send it before you pay a cent.
 
@@ -84,9 +84,9 @@ The correct process, and the one Keli follows, looks like this:
 4. **Formula lock** — after your approval, the master formula is frozen and production runs against that exact specification.
 5. **Bulk production with QC gates** — the 5-point inspection checks quantity, colour, scent, packaging integrity and labelling accuracy before shipment.
 
-![Shampoo product line](assets/uploads/keli-product-shampoo.jpg)
+![Shampoo product line](/assets/uploads/keli-product-shampoo.jpg)
 
-![Hair mask product line](assets/uploads/keli-product-mask.png)
+![Hair mask product line](/assets/uploads/keli-product-mask.png)
 
 A factory's attitude to sampling tells you everything. If the supplier hesitates, charges a suspiciously high "sample fee", or promises the sample "will be basically the same" — walk away. Serious manufacturers treat the sample as a binding contract with the customer: **what you approve is exactly what you receive.**
 
@@ -102,6 +102,12 @@ Keli's production range covers the full hair care shelf:
 | Hair oil / serum | Shine, repair, scalp care |
 | Body wash | Moisturizing, soothing, refreshing |
 
+![Shampoo private label](/assets/uploads/keli-product-shampoo-1.jpg)
+
+![Hair mask private label](/assets/uploads/keli-product-hair-mask.jpg)
+
+![Body wash private label](/assets/uploads/keli-product-body-wash.jpg)
+
 All available as ready-stock private label or fully custom OEM/ODM — your formula, your packaging, your brand.
 
 ## The Bottom Line for Smart Buyers
@@ -113,10 +119,10 @@ Choosing a shampoo factory does not have to be a leap of faith. Do the same chec
 - **Agree MOQ around your plan** — not their warehouse targets.
 - **Insist on sample approval before bulk** — and make sure the sample is the contract.
 
-Guangzhou Keli Biotechnology Co., Ltd. scores well on every one of these checks, and it is exactly the kind of specialist OEM/ODM partner we are happy to introduce from Guangzhou Meibo City.
+Guangzhou Keli Biotechnology Co., Ltd. scores well on every one of these checks, and it is exactly the kind of specialist OEM/ODM partner we are happy to introduce from Guangzhou Meiwan Plaza.
 
 **Visit the factory website** to see the full product range and production photos: [https://kelihaircare.com/](https://kelihaircare.com/)
 
 **Or contact the sales team directly on WhatsApp: [+86 186 2006 1019](https://wa.me/8618620061019)** — send your product idea and get a quote, a sample plan and an honest MOQ answer, usually within one working day.
 
-*Guangzhou Meibo City is the professional sourcing platform for the global beauty trade. If you are looking for reliable factories and want help shortlisting partners before you travel, contact us through the Meibo City website and we will connect you with verified manufacturers.*
+*Guangzhou Meiwan Plaza is the professional sourcing platform for the global beauty trade. If you are looking for reliable factories and want help shortlisting partners before you travel, contact us through the Meiwan Plaza website and we will connect you with verified manufacturers.*
